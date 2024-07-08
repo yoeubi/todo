@@ -1,0 +1,15 @@
+.input {
+  max-width: 100%;
+  width: 100%;
+  border: 1px solid gray;
+  border-radius: 6px;
+  background-color: transparent;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: white;
+}
+
+.input:focus {
+  border: 1px solid white;
+}

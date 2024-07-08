@@ -1,0 +1,18 @@
+.todo-list {
+  border: 1px solid gray;
+  border-radius: 6px;
+  margin-top: 16px;
+  overflow: hidden;
+}
+
+.todo-header {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  padding: 0 12px;
+  gap: 12px;
+}
+
+.text {
+  flex-grow: 1;
+}

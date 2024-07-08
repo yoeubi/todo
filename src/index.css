@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+  padding: 16px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input {
+  outline: none;
+}
+
+button,
+select,
+input {
+  background: transparent;
+  color: inherit;
+  border: none;
+}
