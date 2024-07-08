@@ -1,0 +1,13 @@
+.select {
+  border: 1px solid gray;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  border-radius: 6px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.select:hover {
+  border: 1px solid white;
+  background-color: gray;
+}
